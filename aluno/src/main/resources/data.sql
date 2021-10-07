@@ -1,0 +1,5 @@
+INSERT INTO ALUNO (nome,rg,cpf,endereco,curso) VALUES ('Ericleiton' ,'111111', '222222222', 'Rua trinta 121', 'sistemas para internet')
+INSERT INTO ALUNO (nome,rg,cpf,endereco,curso) VALUES ('Carlos' ,'12121212', '232323223', 'Rua doze 252', 'sistemas para internet')
+INSERT INTO ALUNO (nome,rg,cpf,endereco,curso) VALUES ('Pedro' ,'13131313', '242424242', 'Rua onze 92', 'nutricao')
+INSERT INTO ALUNO (nome,rg,cpf,endereco,curso) VALUES ('Lais' ,'141414141', '2525252525', 'Rua dez 131', 'farmacia')
+INSERT INTO ALUNO (nome,rg,cpf,endereco,curso) VALUES ('Maria' ,'151515151', '2626262', 'Rua vinte 132', 'farmacia')
