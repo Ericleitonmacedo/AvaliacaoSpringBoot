@@ -5,13 +5,13 @@
 
 Ferramentas utilizadas na aplicação:
 
-Java 11
-Spring Tools Suite 4
-H2 Database (login e senha: "demo")
-Dependências Maven
-Spring Dev tools
-Lombok
-Spring Data JPA
-Spring Web
-Testes realizados com Postman e Insomnia
-Porta: 8081
+- Java 11
+- Spring Tools Suite 4
+- H2 Database (login e senha: "demo")
+- Dependências Maven
+- Spring Dev tools
+- Lombok
+- Spring Data JPA
+- Spring Web
+- Testes realizados com Postman e Insomnia
+- Porta: 8081
